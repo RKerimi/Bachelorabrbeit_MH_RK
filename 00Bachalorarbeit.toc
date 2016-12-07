@@ -1,0 +1,12 @@
+\select@language {ngerman}
+\contentsline {chapter}{Inhaltsverzeichnis}{4}{chapter*.4}
+\contentsline {chapter}{Abk\IeC {\"u}rzungsverzeichnis}{5}{chapter*.5}
+\contentsline {chapter}{Abbildungsverzeichnis}{6}{chapter*.6}
+\contentsline {chapter}{Tabellenverzeichnis}{7}{chapter*.7}
+\contentsline {chapter}{Listingverzeichnis}{8}{chapter*.8}
+\contentsline {chapter}{\numberline {1}Beispiele}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Text und Zitate}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Quelltext}{10}{section.1.2}
+\contentsline {section}{\numberline {1.3}Bilder}{10}{section.1.3}
+\contentsline {section}{\numberline {1.4}Formeln}{10}{section.1.4}
+\contentsline {section}{\numberline {1.5}Beispiel f\IeC {\"u}r Tabellen}{11}{section.1.5}
